@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -35,7 +35,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 📌 **Areas of interest:** Cybersecurity · Backend systems · Secure application development  
 📌 **Approach:** Fundamentals first · Practical learning · Continuous improvement
 
----
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -97,7 +97,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -105,7 +105,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-cyb-01&theme=blue_navy&hide_border=false&layout=compact" alt="Top Languages" width="400" />
+
 
   <br/><br/>
 
@@ -113,11 +113,11 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-cyb-01&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -126,7 +126,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 <div align="center">
 
 <a href="https://github.com/Manoj-cyb-01/Fairness-Insight-Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manoj-cyb-01&repo=Fairness-Insight-Engine&theme=blue_navy" />
+  
 </a>
 
 </div>
@@ -137,7 +137,7 @@ Focuses on improving fairness, transparency, and accountability in machine learn
 
 **Tech Stack:** Python, JavaScript  
 
----
+
 
 ## 📫 Connect With Me
 
@@ -149,7 +149,7 @@ Focuses on improving fairness, transparency, and accountability in machine learn
 
 </div>
 
----
+
 
 <div align="center">
 
