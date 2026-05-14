@@ -121,76 +121,60 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects  
-
-<div align="center">
-
-### 🔹 Fairness Insight Engine – Bias Analysis  
-<a href="https://github.com/manoj-cyb-45/fairness-insight-engine-bias-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj-cyb-45&repo=fairness-insight-engine-bias-analysis&theme=tokyonight" />
-</a>
-
-### 🔹 GPS Navigator  
-<a href="https://github.com/manoj-cyb-45/gps-navigator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj-cyb-45&repo=gps-navigator&theme=tokyonight" />
-</a>
-
-### 🔹 Food Quality Analysis  
-<a href="https://github.com/manoj-cyb-45/food-quality-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj-cyb-45&repo=food-quality-analysis&theme=tokyonight" />
-</a>
-
-### 🔹 100 Days of Python  
-<a href="https://github.com/manoj-cyb-45/100-days-of-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj-cyb-45&repo=100-days-of-python&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
-## 🔹 Fairness Insight Engine – Bias Analysis  
-An AI-powered system that detects, analyzes, and explains bias in datasets and decision-making pipelines.  
-Focuses on fairness metrics, transparency, and ethical AI practices.  
-
-**Tech Stack:** Python, JavaScript, Flask  
-
-🔗 Repository:  
-https://github.com/manoj-cyb-45/fairness-insight-engine-bias-analysis
-
----
-
-## 🔹 GPS Navigator  
-A GPS navigation system using Dijkstra’s Algorithm for shortest-path calculation and route optimization.  
-Includes an interactive frontend with Flask backend integration.  
-
-**Tech Stack:** Python, JavaScript, Flask  
-
-🔗 Repository:  
-https://github.com/manoj-cyb-45/gps-navigator
-
----
-
-## 🔹 Food Quality Analysis  
-A professional analytics dashboard for food quality analysis with interactive visualizations and filtering features.  
-Supports data-driven insights using charts and analytical reports.  
-
-**Tech Stack:** Flask, Chart.js, JavaScript  
-
-🔗 Repository:  
-https://github.com/manoj-cyb-45/food-quality-analysis
-
----
-
-## 🔹 100 Days of Python  
-A structured repository documenting Python learning progress, automation scripts, mini-projects, and coding exercises.  
-
-**Tech Stack:** Python  
-
-🔗 Repository:  
-https://github.com/manoj-cyb-45/100-days-of-python
+## 🚀 Featured Projects
 
 
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Fairness Insight Engine – Bias Analysis
+An AI-powered system that detects and explains bias in datasets and AI pipelines.
+
+**Tech Stack:** Python, JavaScript, Flask
+
+🔗 <a href="https://github.com/manoj-cyb-45/fairness-insight-engine-bias-analysis">View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🔹 GPS Navigator
+A GPS navigation system using Dijkstra’s Algorithm for shortest path optimization.
+
+**Tech Stack:** Python, JavaScript, Flask
+
+🔗 <a href="https://github.com/manoj-cyb-45/gps-navigator">View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Food Quality Analysis
+Interactive analytics dashboard for food quality monitoring and visualization.
+
+**Tech Stack:** Flask, Chart.js, JavaScript
+
+🔗 <a href="https://github.com/manoj-cyb-45/food-quality-analysis">View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🔹 100 Days of Python
+Collection of Python learning projects, automation scripts, and exercises.
+
+**Tech Stack:** Python
+
+🔗 <a href="https://github.com/manoj-cyb-45/100-days-of-python">View Repository</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📫 Connect With Me
 
