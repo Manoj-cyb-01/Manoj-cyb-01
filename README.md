@@ -125,7 +125,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
 <div align="center">
 
-<a href="https://github.com/Manoj-cyb-01/Fairness-Insight-Engine">
+<a href="https://github.com/manoj-cyb-45/Fairness-Insight-Engine">
   
 </a>
 
