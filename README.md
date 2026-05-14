@@ -109,7 +109,7 @@ I use GitHub as a **learning workspace** to document progress, build projects, a
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=Manoj-cyb-01&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=manoj-cyb-45&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
 
   <br/><br/>
 
