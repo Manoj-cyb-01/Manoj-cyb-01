@@ -181,8 +181,16 @@ Collection of Python learning projects, automation scripts, and exercises.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-p-91a884346/)
-[![Email](https://img.shields.io/badge/Email-pmanojkumar9972%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmanojkumar9972@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-manoj--cyb--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-cyb-45)
+
+---
+
+
+[![Email](https://img.shields.io/badge/Email-pmanojkumar9972%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmanojkumar9972@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit%20Site-4285F4?style=for-the-badge&logo=world&logoColor=white)](https://github.com/manoj-cyb-45)
+
+---
+
 
 </div>
 
