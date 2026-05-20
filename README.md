@@ -187,7 +187,7 @@ Collection of Python learning projects, automation scripts, and exercises.
 
 
 [![Email](https://img.shields.io/badge/Email-pmanojkumar9972%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmanojkumar9972@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit%20Site-4285F4?style=for-the-badge&logo=world&logoColor=white)](https://manoj-cyb-45.github.io)
+[![Website](https://img.shields.io/badge/Website-Visit%20Site-4285F4?style=for-the-badge&logo=world&logoColor=white)](https://manoj-kumar-p.vercel.app/)
 
 ---
 
