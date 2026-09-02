@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🛡️ Cybersecurity Enthusiast · 💻 CS Undergraduate · 🐍 Python Developer
+### · 💻 CS Undergraduate · 🐍 Python Developer
 
 <img src="https://komarev.com/ghpvc/?username=manoj-cyb-45&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="profile views" />
 
@@ -18,13 +18,12 @@
 
 ## 👋 About Me
 
-Hi, I'm **Manoj Kumar P** — a Computer Science undergraduate focused on building strong expertise in **cybersecurity**, **Python development**, and **full-stack systems**.
+Hi, I'm **Manoj Kumar P** — a Computer Science undergraduate focused on building strong expertise in  **Python development**, and **full-stack systems**.
 
 I work on understanding system behavior, identifying vulnerabilities, and developing secure applications through hands-on practice and real-world projects.
 
 I focus on building a solid foundation in:
 
-- 🔐 Cybersecurity fundamentals & ethical hacking
 - 🐍 Python programming and automation
 - 🌐 Web development and backend systems
 
