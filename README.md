@@ -92,11 +92,6 @@ I use GitHub as a **development workspace** to build projects, experiment with i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj-cyb-45&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Manoj Kumar's GitHub Statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-cyb-45&layout=compact&theme=blue_navy&hide_border=false" alt="Manoj Kumar's Top Languages" />
 
 <br/><br/>
 
