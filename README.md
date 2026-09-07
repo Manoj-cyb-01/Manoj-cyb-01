@@ -1,204 +1,347 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0077B5&height=200&section=header&text=MANOJ%20KUMAR%20P&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Python%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6C63FF&height=220&section=header&text=MANOJ%20KUMAR%20P&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Developer%20%7C%20Builder&descAlignY=57&descSize=18&animation=fadeIn" width="100%"/>
+
+<br>
+
+<a href="https://github.com/manoj-cyb-45">
+<img src="https://komarev.com/ghpvc/?username=manoj-cyb-45&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+</a>
 
 </div>
+
+<br>
 
 <div align="center">
 
-### · 💻 CS Undergraduate · 🐍 Python Developer
+# 👋 Hi, I'm Manoj Kumar P
 
-<img src="https://komarev.com/ghpvc/?username=manoj-cyb-45&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="profile views" />
+### Building things with code, learning by doing, and turning ideas into working software.
 
-</div>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 👋 About Me
-
-Hi, I'm **Manoj Kumar P** — a Computer Science undergraduate focused on building strong expertise in  **Python development**, and **full-stack systems**.
-
-I work on understanding system behavior, identifying vulnerabilities, and developing secure applications through hands-on practice and real-world projects.
-
-I focus on building a solid foundation in:
-
-- 🐍 Python programming and automation
-- 🌐 Web development and backend systems
-
-I use GitHub as a **learning workspace** to document progress, build projects, and move toward production-level engineering practices.
-
-🎯 **Long-term Goal:** To become a **cybersecurity engineer** capable of securing modern systems and contributing to impactful, real-world solutions.
-
-📌 **Areas of interest:** Cybersecurity · Backend systems · Secure application development  
-📌 **Approach:** Fundamentals first · Practical learning · Continuous improvement
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<table width="100%" cellspacing="20">
-
-<tr>
-<td width="50%" align="center">
-  <b>💻 Programming Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,bash&theme=dark" />
-</td>
-
-<td width="50%" align="center">
-  <b>🌐 Web Development</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,nodejs,flask,fastapi,angular&theme=dark" />
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <b>🗄️ Databases</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-</td>
-
-<td width="50%" align="center">
-  <b>☁️ Cloud & Deployment</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,docker,vercel&theme=dark" />
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <b>🔧 Tools & Platforms</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,powershell&theme=dark" />
-</td>
-
-<td width="50%" align="center">
-  <b>📊 Data & ML</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-  <b>🛡️ Cybersecurity Tools & Networking</b><br/><br/>
-  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-</td>
-</tr>
-
-</table>
+<p>
+  <a href="https://github.com/manoj-cyb-45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manoj-kumar-p-91a884346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://manoj-kumar-p.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:pmanojkumar9972@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
+---
 
+## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+```text
+🎓 B.Tech Computer Science & Engineering Student
+📅 Expected Graduation: 2028
 
-## 📊 GitHub Statistics
+💻 Developer focused on building practical software
+🐍 Strong interest in Python and backend development
+🌐 Exploring modern full-stack application development
+🤖 Building AI-powered and algorithm-focused projects
+🧠 Learning through projects, experimentation, and problem solving
+⚡ Interested in turning ideas into real, usable applications
+```
 
-<div align="center">
+I enjoy building projects that combine **software development, algorithms, AI, and modern web technologies**.
 
+My GitHub is where I experiment, build, break things, improve them, and document what I learn along the way.
 
+### 🎯 Current Focus
 
-  <br/><br/>
+* Building full-stack web applications
+* Developing backend systems with **Python & FastAPI**
+* Exploring **AI-powered applications**
+* Improving my **Java, Python and problem-solving skills**
+* Learning better software architecture and deployment practices
+* Building projects that solve practical problems
 
-  <img src="https://streak-stats.demolab.com/?user=manoj-cyb-45&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+---
 
-  <br/><br/>
+## 🧰 Tech Stack
 
+### 💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,bash&theme=dark" />
+</p>
 
-</div>
+### 🌐 Frontend & Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,fastapi&theme=dark" />
+</p>
 
+### 🗄️ Databases
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
+</p>
+
+### ☁️ Deployment & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,firebase&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Fairness Insight Engine – Bias Analysis
-An AI-powered system that detects and explains bias in datasets and AI pipelines.
-
-**Tech Stack:** Python, JavaScript, Flask
-
-🔗 <a href="https://github.com/manoj-cyb-45/fairness-insight-engine-bias-analysis">View Repository</a>
-
-</td>
-
-<td width="50%">
-
-### 🔹 GPS Navigator
-A GPS navigation system using Dijkstra’s Algorithm for shortest path optimization.
-
-**Tech Stack:** Python, JavaScript, Flask
-
-🔗 <a href="https://github.com/manoj-cyb-45/gps-navigator">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔹 Food Quality Analysis
-Interactive analytics dashboard for food quality monitoring and visualization.
-
-**Tech Stack:** Flask, Chart.js, JavaScript
-
-🔗 <a href="https://github.com/manoj-cyb-45/food-quality-analysis">View Repository</a>
-
-</td>
-
-<td width="50%">
-
-### 🔹 100 Days of Python
-Collection of Python learning projects, automation scripts, and exercises.
-
-**Tech Stack:** Python
-
-🔗 <a href="https://github.com/manoj-cyb-45/100-days-of-python">View Repository</a>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📫 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-p-91a884346/)
-[![GitHub](https://img.shields.io/badge/GitHub-manoj--cyb--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-cyb-45)
+<table>
 
----
+<tr>
 
+<td width="50%" valign="top">
 
-[![Email](https://img.shields.io/badge/Email-pmanojkumar9972%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmanojkumar9972@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit%20Site-4285F4?style=for-the-badge&logo=world&logoColor=white)](https://manoj-kumar-p.vercel.app/)
+<h3>🤖 AI Study Assistant</h3>
 
----
+An AI-powered study assistant designed to help students learn from their study material, interact with content, and get useful answers through an intelligent application workflow.
 
+<br>
+
+<b>Built With</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker&theme=dark" />
+
+<br><br>
+
+<a href="https://github.com/manoj-cyb-45/AI-Study-Assistant">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 AI Algorithm Complexity Visualizer</h3>
+
+An interactive application that helps visualize algorithms and understand their time and space complexity through a more intuitive learning experience.
+
+<br>
+
+<b>Built With</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,fastapi,react&theme=dark" />
+
+<br><br>
+
+<a href="https://github.com/manoj-cyb-45/ai-powered-algo-complexity-visualizer">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚖️ Fairness Insight Engine</h3>
+
+An AI-focused system for analyzing datasets and identifying potential fairness and bias patterns, with an emphasis on making model and dataset behavior easier to understand.
+
+<br>
+
+<b>Built With</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,flask&theme=dark" />
+
+<br><br>
+
+<a href="https://github.com/manoj-cyb-45/fairness-insight-engine-bias-analysis">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 Certificates & Learning</h3>
+
+A dedicated repository for organizing and documenting certificates, completed learning programs, and technical development milestones.
+
+<br>
+
+<b>Focus</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Learning-Continuous-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Growth-2028-161B22?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/manoj-cyb-45/Certificates">
+<img src="https://img.shields.io/badge/View%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
+---
 
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoj-cyb-45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-### 🔐 Open to Cybersecurity & Dev Opportunities | Let's build secure systems together! 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-cyb-45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=manoj-cyb-45&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-cyb-45&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manoj-cyb-45/manoj-cyb-45/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🌱 What I'm Learning
+
+<div align="center">
+
+|          Area          | Focus                                                  |
+| :--------------------: | :----------------------------------------------------- |
+|      🐍 **Python**     | Backend development, automation & application building |
+|       ☕ **Java**       | Object-oriented programming & problem solving          |
+|      ⚛️ **React**      | Modern frontend development                            |
+|      ⚡ **FastAPI**     | APIs & backend architecture                            |
+|    🗄️ **Databases**   | PostgreSQL, MySQL & MongoDB                            |
+|      🐳 **Docker**     | Containerization & deployment                          |
+| 🤖 **AI Applications** | Building practical AI-powered systems                  |
+|       🧠 **DSA**       | Algorithms, complexity & problem solving               |
+
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+</div>
+
+I believe the best way to learn software development is to **build real projects**.
+
+Instead of only studying technologies individually, I try to combine them into working systems, understand why they work, identify what can be improved, and keep iterating.
+
+---
+
+## 📌 Current Goals
+
+```text
+2026 ───────────────────────────────────────────────► 2028
+
+     Build More          Improve Engineering
+       Projects          & Problem Solving
+          │                     │
+          ▼                     ▼
+     ┌──────────┐          ┌──────────┐
+     │ Full     │          │ Software │
+     │ Stack    │ ───────► │ Developer│
+     └──────────┘          └──────────┘
+          │                     │
+          └─────────┬───────────┘
+                    ▼
+             Build Better
+             Real-World Systems
+```
+
+### 🎯 Long-Term Direction
+
+Become a strong software developer capable of designing, developing, deploying, and maintaining **real-world applications from end to end**.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/manoj-cyb-45">
+<img src="https://img.shields.io/badge/GitHub-manoj--cyb--45-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manoj-kumar-p-91a884346/">
+<img src="https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://manoj-kumar-p.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-manoj--kumar--p.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:pmanojkumar9972@gmail.com">
+<img src="https://img.shields.io/badge/Email-pmanojkumar9972%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ If you find something interesting in my repositories, feel free to explore.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
